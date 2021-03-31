@@ -1,0 +1,93 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(volkan-vardar-1H30uRC1plc-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+    
+    
+}
+
+.välkommen{
+    border-bottom: solid rgba(252, 226, 79, 0.295);
+}
+section {
+    display:block;
+    align-items: center;
+    text-align: center;
+    
+}
+h1 {
+    background-color:  rgba(252, 226, 79, 1);
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+}
+.wrapper {
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.75);
+    border-radius: 10px;
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: center;
+    margin: 6px;
+
+}
+
+section {
+    width: 500px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 0.5rem;
+    
+}
+
+.times {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 2rem;
+    flex: 1;
+}
+
+h3 {
+    font-family:cursive, Georgia;
+    font-size: 21px;
+    color: rgba(252, 226, 79, 1);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-bottom: solid rgba(252, 226, 79, 0.4);
+}
+
+h4 {
+    font-family: cursive, sans-serif;
+    font-size: 18.5;
+    color: rgba(252, 226, 79, 1);
+    border-bottom: solid rgba(252, 226, 79, 0.4);
+    margin: 4px;
+    
+}
+
+.uppgifter {
+    margin-top: 30px;
+    border-bottom: none;
+}
+
+p {
+    font-family: cursive, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: rgb(255, 254, 254);
+    margin: 0.5px;
+}
